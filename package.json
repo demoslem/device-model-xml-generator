@@ -1,6 +1,6 @@
 {
   "name": "@demoslem/device-model-xml-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Device Model xml",
   "main": "index.js",
   "scripts": {
