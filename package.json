@@ -1,0 +1,21 @@
+{
+  "name": "@demoslem/device-model-xml-generator",
+  "version": "1.0.0",
+  "description": "Generate Device Model xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demoslem/device-model-xml-generator.git"
+  },
+   "keywords": [],
+  "author": "Mohamed Hosny",
+  "license": "MIT",
+  "homepage": "https://github.com/demoslem/device-model-xml-generator#readme",
+  "bugs": {
+    "url": "https://github.com/demoslem/device-model-xml-generator/issues"
+  }
+  
+}
